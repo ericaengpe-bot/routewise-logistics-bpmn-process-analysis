@@ -1,0 +1,34 @@
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.log
+~$*
+
+# Microsoft Office temporary files
+~$*.xlsx
+~$*.docx
+~$*.pptx
+~$*.vsdx
+
+# Visio temporary and backup files
+*.vsdx.bak
+*.vsd.bak
+*.autosave
+*.lock
+*.lck
+
+# Editor settings
+.vscode/
+.idea/
+
+# Credentials
+.env
+.env.*
+*.key
+*.pem
