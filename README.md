@@ -268,5 +268,5 @@ This project is a fictitious case study created exclusively for educational and 
 No real customer, carrier, employee or company information is included.
 ---
 Author
-Érica Adriana Marques Teodoro
+Érica Teodoro
 Electrical Engineer | Business Analyst | Data Analysis | Process Improvement
